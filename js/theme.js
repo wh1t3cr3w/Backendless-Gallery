@@ -11,7 +11,6 @@ for (let i = 0; i < changeThemeBtn.length; i++) {
 selectTheme.addEventListener("change" , (e)=> {
     ChangeTheme(e.target.value)
 })
-// input.addEventListener("click", function () { ChangeTheme(); });
 
 function ChangeTheme(theme)
 {

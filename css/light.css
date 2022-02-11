@@ -210,175 +210,174 @@ nav .animation_block .nav_header-title{
     
     .div1 { 
         grid-area: 1 / 1 / 4 / 4;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
+        background: url("https://thelogicalindian.com/h-upload/2020/07/29/178182-tigerwev.jpg?width=500&height=300") center center/cover no-repeat;
         height: 600px;
-        border: 1px solid #d5bdaf;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
         }
     
     .div2 { 
         grid-area: 1 / 4 / 2 / 5;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://cdn.mos.cms.futurecdn.net/YB6aQqKZBVjtt3PuDSkJKe.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
     }
     .div3 { 
         grid-area: 2 / 4 / 3 / 5;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://static.scientificamerican.com/sciam/cache/file/A064B7E6-FFC4-408B-A2461196158CD4C6_source.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
     }
     .div4 { 
         grid-area: 3 / 4 / 4 / 5;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://animals.sandiegozoo.org/sites/default/files/2016-08/hero_tiger_animals.jpg")center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
     }
     .div5 { 
         grid-area: 4 / 1 / 5 / 2;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://cdn.oxu.az/uploads/W1siZiIsIjIwMjAvMDYvMDgvMDAvNDgvNDAvZDMxZGE4MmUtZDM3Ni00NDk0LWI2MDItOWFhOTZiNmExMTZhLzAzNS5qcGciXV0?sha=f0a97b54c851bfa7") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
     }
     .div6 { 
         grid-area: 4 / 2 / 5 / 3;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://img1.goodfon.ru/wallpaper/nbig/9/e7/white-shark-predator-ocean.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
      }
     .div7 { 
         grid-area: 4 / 3 / 5 / 4;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://i.natgeofe.com/k/d21630fa-3ab9-4e37-adea-c503629e49d4/great_white_smile_16x9.jpg?w=1200") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div8 { 
         grid-area: 4 / 4 / 5 / 5;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://api.time.com/wp-content/uploads/2019/01/gettyimages-549035715.jpg?quality=85&w=1024&h=628&crop=1") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div9 { 
         grid-area: 5 / 1 / 6 / 2;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://brovarnya-rivne.com/img/images_2/k-chemu-snitsya-slon-sonnik-slon-slonenok_8.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div10 { 
         grid-area: 5 / 2 / 8 / 5;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://4lapki.com/wp-content/auploads/733191/skolko_vesit_afrikanskiy.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div11 { 
         grid-area: 6 / 1 / 7 / 2;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://cdnimg.rg.ru/img/content/182/31/63/1625_d_850.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div12 { 
         grid-area: 7 / 1 / 8 / 2;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://38cnsy2ees0v3wanzd1lt0vq-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/shutterstock_119196472.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div13 { 
         grid-area: 8 / 1 / 9 / 2;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://web-zoopark.ru/wp-content/uploads/2018/06/9-55.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div14 { 
         grid-area: 8 / 2 / 9 / 3;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://avatars.mds.yandex.net/get-zen_doc/46847/pub_5aa90ab2799d9d5da03425ac_5aa9936cf0317339a7ae6338/scale_1200") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div15 { 
         grid-area: 8 / 3 / 9 / 4;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://odnaminyta.com/wp-content/uploads/2021/04/image002-262.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div16 { 
         grid-area: 8 / 4 / 9 / 5;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://cdn.ren.tv/cache/1200x630/media/img/ba/63/ba63fe052ccefd0c8b5fc4a3ace0e4c1d927437b.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div17 { 
         grid-area: 9 / 1 / 12 / 4;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://lookw.ru/1/86/1380311073-orli-svetlie----19.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div18 { 
         grid-area: 9 / 4 / 10 / 5;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://avatars.mds.yandex.net/get-zen_doc/4473624/pub_606fe25df597d466f21b5fe8_606fe43ac575c815f0c91926/scale_1200") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div19 { 
         grid-area: 10 / 4 / 11 / 5;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("http://howdoright.ru/wp-content/uploads/2017/07/where-does-an-eagle-live_8d281a1c-5e52-4682-ae86-9274b3960e88.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div20 { 
         grid-area: 11 / 4 / 12 / 5;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://oir.mobi/uploads/posts/2019-12/1576834702_1-2.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div21 { 
         grid-area: 12 / 1 / 13 / 2;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://anapacity.com/content/images/meduza-kornerot-01.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div22 { 
         grid-area: 12 / 2 / 13 / 3;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://anapacity.com/content/images/meduza-kornerot-02.jpeg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div23 { 
         grid-area: 12 / 3 / 13 / 4;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://www.aviasales.ru/blog/wp-content/uploads/2019/10/tim-mossholder-1xSuJgr25jM-unsplash.jpeg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
     .div24 { 
         grid-area: 12 / 4 / 13 / 5;
-        background: url(/img/1000x600.png) center center/cover no-repeat;
-        border: 1px solid #d5bdaf;
+        background: url("https://indicator.ru/thumb/1500x0/filters:quality(75):no_upscale()/imgs/2019/08/05/10/3493005/f08bcbfbb9a4d93b81d35006304f9656ac47a376.jpg") center center/cover no-repeat;
+        border: 1px solid #feffff;
         border-radius: 8px;
-        box-shadow: -1px 2px 20px 0px #d5bdaf;
+        box-shadow: -1px 2px 20px 0px #feffff;
       }
-  
 
 /* GALLERY END */
 
@@ -531,31 +530,102 @@ footer{
         grid-column-gap: 0px;
         grid-row-gap: 0px;
         }
+        .div1 { 
+            grid-area: 1 / 1 / 3 / 3; 
+            background: url("https://animals.sandiegozoo.org/sites/default/files/2016-08/hero_tiger_animals.jpg")center center/cover no-repeat;
+        }
+        .div2 { 
+            grid-area: 1 / 3 / 2 / 4; 
         
-        .div1 { grid-area: 1 / 1 / 3 / 3; }
-        .div2 { grid-area: 1 / 3 / 2 / 4; }
-        .div3 { grid-area: 2 / 3 / 3 / 4; }
-        .div4 { grid-area: 3 / 1 / 5 / 3; }
-        .div5 { grid-area: 3 / 3 / 4 / 4; }
-        .div6 { grid-area: 4 / 3 / 5 / 4; }
-        .div7 { grid-area: 5 / 1 / 7 / 3; }
-        .div8 { grid-area: 5 / 3 / 6 / 4; }
-        .div9 { grid-area: 6 / 3 / 7 / 4; }
-        .div10 { grid-area: 7 / 1 / 9 / 3; }
-        .div11 { grid-area: 7 / 3 / 8 / 4; }
-        .div12 { grid-area: 8 / 3 / 9 / 4; }
-        .div13 { grid-area: 9 / 1 / 11 / 3; }
-        .div14 { grid-area: 9 / 3 / 10 / 4; }
-        .div15 { grid-area: 10 / 3 / 11 / 4; }
-        .div16 { grid-area: 11 / 1 / 13 / 3; }
-        .div17 { grid-area: 11 / 3 / 12 / 4; }
-        .div18 { grid-area: 12 / 3 / 13 / 4; }
-        .div19 { grid-area: 13 / 1 / 15 / 3; }
-        .div20 { grid-area: 13 / 3 / 14 / 4; }
-        .div21 { grid-area: 14 / 3 / 15 / 4; }
-        .div22 { grid-area: 15 / 1 / 17 / 3; }
-        .div23 { grid-area: 15 / 3 / 16 / 4; }
-        .div24 { grid-area: 16 / 3 / 17 / 4; }
+        }
+        .div3 { 
+            grid-area: 2 / 3 / 3 / 4; 
+        
+        }
+        .div4 { 
+            grid-area: 3 / 1 / 5 / 3; 
+            background: url("https://cdn.oxu.az/uploads/W1siZiIsIjIwMjAvMDYvMDgvMDAvNDgvNDAvZDMxZGE4MmUtZDM3Ni00NDk0LWI2MDItOWFhOTZiNmExMTZhLzAzNS5qcGciXV0?sha=f0a97b54c851bfa7") center center/cover no-repeat;
+        }
+        .div5 { 
+            grid-area: 3 / 3 / 4 / 4; 
+            background: url("https://i.natgeofe.com/k/d21630fa-3ab9-4e37-adea-c503629e49d4/great_white_smile_16x9.jpg?w=1200") center center/cover no-repeat;
+        }
+        .div6 { 
+            grid-area: 4 / 3 / 5 / 4; 
+        
+        }
+        .div7 { 
+            grid-area: 5 / 1 / 7 / 3; 
+            background: url("https://4lapki.com/wp-content/auploads/733191/skolko_vesit_afrikanskiy.jpg") center center/cover no-repeat;
+        }
+        .div8 { 
+            grid-area: 5 / 3 / 6 / 4; 
+            background: url("https://38cnsy2ees0v3wanzd1lt0vq-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/shutterstock_119196472.jpg") center center/cover no-repeat;
+        }
+        .div9 { 
+            grid-area: 6 / 3 / 7 / 4; 
+        
+        }
+        .div10 { 
+            grid-area: 7 / 1 / 9 / 3; 
+            background: url("https://avatars.mds.yandex.net/get-zen_doc/46847/pub_5aa90ab2799d9d5da03425ac_5aa9936cf0317339a7ae6338/scale_1200") center center/cover no-repeat;
+        }
+        .div11 { 
+            grid-area: 7 / 3 / 8 / 4; 
+            background: url("https://odnaminyta.com/wp-content/uploads/2021/04/image002-262.jpg") center center/cover no-repeat;
+        }
+        .div12 { 
+            grid-area: 8 / 3 / 9 / 4; 
+            background: url("https://cdn.ren.tv/cache/1200x630/media/img/ba/63/ba63fe052ccefd0c8b5fc4a3ace0e4c1d927437b.jpg") center center/cover no-repeat;
+        }
+        .div13 { 
+            grid-area: 9 / 1 / 11 / 3; 
+            background: url("https://lookw.ru/1/86/1380311073-orli-svetlie----19.jpg") center center/cover no-repeat; 
+        }
+        .div14{ 
+            grid-area: 9 / 3 / 10 / 4; 
+            background: url("https://avatars.mds.yandex.net/get-zen_doc/4473624/pub_606fe25df597d466f21b5fe8_606fe43ac575c815f0c91926/scale_1200") center center/cover no-repeat;
+        }
+        .div15 { 
+            grid-area: 10 / 3 / 11 / 4; 
+            background: url("http://howdoright.ru/wp-content/uploads/2017/07/where-does-an-eagle-live_8d281a1c-5e52-4682-ae86-9274b3960e88.jpg") center center/cover no-repeat;
+        }
+        .div16 { 
+            grid-area: 11 / 1 / 13 / 3; 
+            background: url("https://indicator.ru/thumb/1500x0/filters:quality(75):no_upscale()/imgs/2019/08/05/10/3493005/f08bcbfbb9a4d93b81d35006304f9656ac47a376.jpg") center center/cover no-repeat;
+        }
+        .div17 { 
+            grid-area: 11 / 3 / 12 / 4; 
+            background: url("https://www.aviasales.ru/blog/wp-content/uploads/2019/10/tim-mossholder-1xSuJgr25jM-unsplash.jpeg") center center/cover no-repeat;
+        }
+        .div18 { 
+            grid-area: 12 / 3 / 13 / 4; 
+            background: url("https://anapacity.com/content/images/meduza-kornerot-01.jpg") center center/cover no-repeat;
+        }
+        .div19 { 
+            grid-area: 13 / 1 / 15 / 3; 
+            background: url("https://sites.dartmouth.edu/jacko/files/2020/02/PolarBeariStock.jpg") center center/cover no-repeat;
+        }
+        .div20 { 
+            grid-area: 13 / 3 / 14 / 4; 
+            background: url("https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/1200/675/polar-bear.jpg?ve=1&tl=1") center center/cover no-repeat;
+        }
+        .div21 { 
+            grid-area: 14 / 3 / 15 / 4; 
+            background: url("https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2011/01/thumb_720_450_polar-bear_shutterstock_53330245.jpg") center center/cover no-repeat;
+        }
+        .div22 { 
+            grid-area: 15 / 1 / 17 / 3; 
+            background: url("https://thehill.com/sites/default/files/ca_graywolfyellowstone_010722istock.jpg") center center/cover no-repeat;
+        }
+        .div23 { 
+            grid-area: 15 / 3 / 16 / 4; 
+            background: url("https://appimg-drru.dbankcdn.com/application/screenshut1/65/65db327fe97d4c818fe62fa5989baaa8.jpg") center center/cover no-repeat;
+        }
+        .div24 { 
+            grid-area: 16 / 3 / 17 / 4; 
+            background: url("https://shutnikov.club/wp-content/uploads/2019/12/volk_21_22093124.jpg") center center/cover no-repeat;
+        }
 
 
         #modal {

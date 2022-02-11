@@ -9,7 +9,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;700&family=Parisienne&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/backendless.css" id="theme-link">
+
 </head>
 <body>
       
@@ -23,27 +24,27 @@
             <a class="header_logo-link" href="#">Backendless</a>
         </div>
         <div class="header_themes-radio">
-            <input name="theme" id="lightTheme-radio" type="radio" value="0" checked>
+            <input data-theme="light" name="theme" id="lightTheme-radio" class="changeTheme" type="radio">
             <label for="lightTheme-radio">Lihgt Theme</label>
 
-            <input name="theme" id="darkTheme-radio" type="radio" value="1">
+            <input data-theme="dark"  name="theme" id="darkTheme-radio" class="changeTheme" type="radio">
             <label for="darkTheme-radio">Dark Theme</label>
 
-            <input name="theme" id="backendlessTheme-radio" type="radio" value="2">
+            <input data-theme="bakcendless"  name="theme" id="backendlessTheme-radio" class="changeTheme" type="radio"  checked>
             <label for="backendlessTheme-radio">Backendless Theme</label>
         </div>
 
         <div class="header_themes-btn">
-            <input name="theme" id="lightTheme-btn" type="button" value="Lihgt Theme">
-            <input name="theme" id="darkTheme-btn" type="button" value="Dark Theme">
-            <input name="theme" id="BackendlessTheme-btn" type="button" value="Backendless Theme">
+            <input name="theme" class="changeTheme" id="lightTheme-btn" data-theme="light" type="button" value="Light Theme">
+            <input name="theme" class="changeTheme" id="darkTheme-btn" type="button" data-theme="dark" value="Dark Theme">
+            <input name="theme" class="changeTheme" id="backendlessTheme-btn" type="button" data-theme="bakcendless"  value="Bakcendless Theme">
         </div>
 
         <div class="header_themes-option">
-            <select>
-                <option>Lihgt Theme</option>
-                <option>Dark Theme</option>
-                <option>Backendless Theme</option>
+            <select id="selectTheme">
+                <option  class="selectTheme" value="light">Lihgt Theme</option>
+                <option  class="selectTheme" value="dark">Dark Theme</option>
+                <option  class="selectTheme" selected  value="backendless">Backendless Theme</option>
             </select>
         </div>
     </header>
@@ -99,10 +100,6 @@
                 <div class="div22"> </div>
                 <div class="div23"> </div>
                 <div class="div24"> </div>
-                <div class="div25"> </div>
-                <div class="div26"> </div>
-                <div class="div27"> </div>
-                <div class="div28"> </div>
             </div>
         </div>
     </section>
@@ -138,10 +135,15 @@
 <!-- FOOTER END -->
 
 
+<!--------------------------------------------------------------------------------------->
+
+<!-- SCRIPT START -->
 
 
+<script type="text/javascript" src="js/theme.js"></script>
 
 
+<!-- SCRIPT END -->
 
 </body>
 </html>
